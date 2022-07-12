@@ -1,0 +1,14 @@
+{
+  "name": "thermal-printer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leandro Lopes <leandro-lopes46@hotmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-thermal-printer": "^4.1.2"
+  }
+}
